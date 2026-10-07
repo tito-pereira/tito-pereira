@@ -3,7 +3,7 @@
 <h6>(Hello There) - 😏⚔️🗿 - (General Kenobi!)</h6>
 
 I'm a Software Developer from Porto, Portugal, with a particular interest in Backend Development, Databases, SQL and Data Analysis.<br>
-Besides a big Star Wars, i'm also:<br>
+Besides a big Star Wars fan, i'm also:<br>
 
 🧑🏻‍🎓 BSc Finalist in Computer Science at FCUP<br>
 🏦 42 Porto Alumni
