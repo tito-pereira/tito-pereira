@@ -50,7 +50,7 @@ A fictional healthcare clinic database built with Oracle and SQLite.
 
 **Technologies & Tools:** Oracle SQL, SQLite, SQL, PL/SQL
 
-View Project ➡️ ()
+View Project ➡️ [Healthcare Database Manager](https://github.com/tito-pereira/Healthcare-Database-Manager)
 
 ---
 
