@@ -2,15 +2,14 @@
 
 <h6>(Hello There) - 😏⚔️🗿 - (General Kenobi!)</h6>
 
-I'm a Software Developer from Porto, Portugal, with a particular interest in Backend Development, Databases, SQL and Data Analysis.<br>
+I'm a Software Developer from Porto, Portugal, with a background mostly focused on backend and low-level programming, database management and data-driven applications.<br>
 Besides a big Star Wars fan, i'm also:<br>
 
 🧑🏻‍🎓 BSc Finalist in Computer Science at FCUP<br>
 
 🏦 42 Porto Alumni
 
-My background is mainly focused on understanding how systems work and building practical solutions around them, from backend and low-level programming to database management and data-driven applications.
-
+My main priority is understanding how systems work and building practical solutions around them.<br>
 I'm currently expanding my knowledge into Data and Business Intelligence, while exploring AI and Machine Learning and how these technologies can be applied to real-world problems.
 
 You can visit my other profiles here:<br>
