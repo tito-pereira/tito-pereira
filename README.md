@@ -6,6 +6,7 @@ I'm a Software Developer from Porto, Portugal, with a particular interest in Bac
 Besides a big Star Wars fan, i'm also:<br>
 
 🧑🏻‍🎓 BSc Finalist in Computer Science at FCUP<br>
+
 🏦 42 Porto Alumni
 
 My background is mainly focused on understanding how systems work and building practical solutions around them, from backend and low-level programming to database management and data-driven applications.
@@ -13,29 +14,31 @@ My background is mainly focused on understanding how systems work and building p
 I'm currently expanding my knowledge into Data and Business Intelligence, while exploring AI and Machine Learning and how these technologies can be applied to real-world problems.
 
 You can visit my other profiles here:<br>
+
 👔🔗 [LinkedIn](https://www.linkedin.com/in/tito-pereira-ba7b6a289/)<br>
+
 🐋📦 [DockerHub](https://hub.docker.com/u/tibarbos)
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-* **Languages:**<br>
-C<br>
-C++<br>
-PL/SQL<br>
-Python<br>
-Java<br>
+**Languages:**<br>
+- C<br>
+- C++<br>
+- PL/SQL<br>
+- Python<br>
+- Java<br>
 
-* **Database Management Software:**<br>
-Oracle SQL Developer<br>
-SQLite<br>
+**Database Management Software:**<br>
+- Oracle SQL Developer<br>
+- SQLite<br>
 
-* **Tools:**<br>
-Git<br>
-Docker<br>
-Bash<br>
-Make<br>
+**Tools:**<br>
+- Git<br>
+- Docker<br>
+- Bash<br>
+- Make<br>
 
 ---
 
@@ -45,11 +48,27 @@ Make<br>
 
 A fictional healthcare clinic database built with Oracle and SQLite.
 
-**Technologies:** Oracle SQL, SQLite, SQL, PL/SQL
+**Technologies & Tools:** Oracle SQL, SQLite, SQL, PL/SQL
 
-View Project →
+View Project ➡️ ()
 
+---
 
+### 🗺️ Fil-de-Fer (FDF)
+
+stuff
+
+**Technologies & Tools:** C, Makefile
+
+View Project ➡️ ()
+
+---
+
+### 🖥️ Minishell
+
+**Technologies & Tools:** C, Makefile
+
+View Project ➡️ ()
 <!--
 Data: Power BI · Pandas
 
