@@ -60,15 +60,17 @@ stuff
 
 **Technologies & Tools:** C, Makefile
 
-View Project ➡️ ()
+View Project ➡️ [FDF](https://github.com/tito-pereira/42_fdf)
 
 ---
 
 ### 🖥️ Minishell
 
+stuff
+
 **Technologies & Tools:** C, Makefile
 
-View Project ➡️ ()
+View Project ➡️ [Minishell](https://github.com/tito-pereira/42_minishell)
 <!--
 Data: Power BI · Pandas
 
