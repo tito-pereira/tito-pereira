@@ -60,7 +60,7 @@ View Project ➡️ [Healthcare Database Manager](https://github.com/tito-pereir
 
 ### 🗺️ Fil-de-Fer (FDF)
 
-A 3D wireframe renderer using the MiniLibX graphical library, built with graphical update using 3D matrices.
+A 3D wireframe renderer using the MiniLibX graphical library, built with interactive key mapping and graphical update using 3D matrices.
 
 **Technologies & Tools:** <br> 
 C<br>
