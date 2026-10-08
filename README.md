@@ -45,9 +45,14 @@ You can visit my other profiles here:<br>
 
 ### 🏥 Healthcare Database Manager
 
-A fictional healthcare clinic database built with Oracle and SQLite.
+A working database manager for a fictional healthcare clinic built with both Oracle and SQLite, including a normalized relational model, diagram, tables, relationships, constraints, views, indexes, procedures and triggers.<br>
+It serves as a practical demonstration of database concepts applied to a realistic business scenario.
 
-**Technologies & Tools:** Oracle SQL, SQLite, SQL, PL/SQL
+**Technologies & Tools:** <br>
+Oracle SQL<br>
+SQLite<br>
+SQL<br>
+PL/SQL
 
 View Project ➡️ [Healthcare Database Manager](https://github.com/tito-pereira/Healthcare-Database-Manager)
 
@@ -55,9 +60,12 @@ View Project ➡️ [Healthcare Database Manager](https://github.com/tito-pereir
 
 ### 🗺️ Fil-de-Fer (FDF)
 
-stuff
+A 3D wireframe renderer using the MiniLibX graphical library, built with graphical update using 3D matrices.
 
-**Technologies & Tools:** C, Makefile
+**Technologies & Tools:** <br> 
+C<br>
+Make<br>
+Bash
 
 View Project ➡️ [FDF](https://github.com/tito-pereira/42_fdf)
 
@@ -65,9 +73,12 @@ View Project ➡️ [FDF](https://github.com/tito-pereira/42_fdf)
 
 ### 🖥️ Minishell
 
-stuff
+A Command Line Interface for Ubuntu, including builtin commands, other system commands found in $PATH, environment variables, signal handling, pipes, redirections, quotes, interactive user input parsing and much more funcionalities.
 
-**Technologies & Tools:** C, Makefile
+**Technologies & Tools:** <br> 
+C<br>
+Make<br>
+Bash
 
 View Project ➡️ [Minishell](https://github.com/tito-pereira/42_minishell)
 <!--
