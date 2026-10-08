@@ -82,6 +82,11 @@ Bash
 
 View Project ➡️ [Minishell](https://github.com/tito-pereira/42_minishell)
 <!--
+
+🏥 [Healthcare Database Manager](https://github.com/YOUR_USERNAME/Healthcare-Database-Manager)  
+💻 [C Projects](https://github.com/YOUR_USERNAME/C-Projects)  
+🐍 [Python Projects](https://github.com/YOUR_USERNAME/Python-Projects)
+
 Data: Power BI · Pandas
 
 ## 🎯 Currently Learning
