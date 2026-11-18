@@ -61,6 +61,8 @@ Bash
 
 View Project ➡️ [Minishell](https://github.com/tito-pereira/42_minishell)
 
+---
+
 ## 🛠️ Technologies & Tools
 
 **Languages:**<br>
@@ -80,7 +82,6 @@ View Project ➡️ [Minishell](https://github.com/tito-pereira/42_minishell)
 - Bash<br>
 - Make<br>
 
----
 <!--
 (Healthcare Database)
 
