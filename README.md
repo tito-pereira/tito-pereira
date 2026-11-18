@@ -20,27 +20,6 @@ You can visit my other profiles here:<br>
 
 ---
 
-## 🛠️ Technologies & Tools
-
-**Languages:**<br>
-- C<br>
-- C++<br>
-- PL/SQL<br>
-- Python<br>
-- Java<br>
-
-**Database Management Software:**<br>
-- Oracle SQL Developer<br>
-- SQLite<br>
-
-**Tools:**<br>
-- Git<br>
-- Docker<br>
-- Bash<br>
-- Make<br>
-
----
-
 ## 📌 Featured Projects
 
 ### 🏥 Healthcare Database Manager
@@ -82,6 +61,26 @@ Bash
 
 View Project ➡️ [Minishell](https://github.com/tito-pereira/42_minishell)
 
+## 🛠️ Technologies & Tools
+
+**Languages:**<br>
+- C<br>
+- C++<br>
+- PL/SQL<br>
+- Python<br>
+- Java<br>
+
+**Database Management Software:**<br>
+- Oracle SQL Developer<br>
+- SQLite<br>
+
+**Tools:**<br>
+- Git<br>
+- Docker<br>
+- Bash<br>
+- Make<br>
+
+---
 <!--
 (Healthcare Database)
 
